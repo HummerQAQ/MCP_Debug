@@ -1,0 +1,19 @@
+fastapi
+fastmcp>=2.0
+openai>=1.0
+python-dotenv
+httpx
+beautifulsoup4
+lxml
+selenium
+pandas
+webdriver-manager
+uvicorn
+
+
+
+#啟動流程
+#python -m venv .venv
+#source .venv/bin/activate
+#pip install -r requirements.txt
+#mcp dev server.py   
